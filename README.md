@@ -1,4 +1,4 @@
-# City Life using Python Turtle
+# Illustrate City Life Using Python Turtle
 **Aim**: Using Python Turtle to draw an illustration of the city life, with house, car, animal, and so on.
 <p>To begin, I import the turtle() module, after which I define all of the functions I am going to use in the code. I then set the window for the project by setting the height and width. What is interesting is that I apply a gif image to the background to make it look more realistic and colourful. Therefore, I include that gif in the same zip file with other code so that it would run smoothly without error. Furthermore, for almost every element, I specify it with an appropriate name, such as house, roof, and dog using turtle.Turtle() method.</p>
 <p>Inside the draw_window(x, y) function (with the two arguments being the x- and y- coordinates of the window), a short for loop is used to draw the square-shape border of the window.</p>
