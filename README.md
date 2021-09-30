@@ -1,8 +1,9 @@
 # Illustrate City Life Using Python Turtle
 **Aim**: Using Python Turtle to draw an illustration of the city life, with house, car, animal, and so on.
 <p>To begin, I import the turtle() module, after which I define all of the functions I am going to use in the code. I then set the window for the project by setting the height and width. What is interesting is that I apply a gif image to the background to make it look more realistic and colourful. Therefore, I include that gif in the same zip file with other code so that it would run smoothly without error. Furthermore, for almost every element, I specify it with an appropriate name, such as house, roof, and dog using turtle.Turtle() method.</p>
-<p>Inside the draw_window(x, y) function (with the two arguments being the x- and y- coordinates of the window), a short for loop is used to draw the square-shape border of the window.</p>
-<p>The draw_wheel(x1, y1) function has two arguments being the x- and y- coordinates of the wheel. These coordinates will be specified later when I get to that part. Inside that function, I divide it into two circumstances, which simply refers to the two wheels, after which I use a while loop to draw the wheel at the particular (x2, y2) position.</p>
+<p>There are seven procedures which are pulled out from main.py to store in drawing_procedures.py so as to optimise and improve code legibility and code reuse.</p>
+<p>Inside the draw_window(window, x, y) function (with the two arguments being the x- and y- coordinates of the window), a short for loop is used to draw the square-shape border of the window.</p>
+<p>The draw_wheel(wheel, x1, y1) function has two arguments being the x- and y- coordinates of the wheel. These coordinates will be specified later when I get to that part. Inside that function, I divide it into two circumstances, which simply refers to the two wheels, after which I use a while loop to draw the wheel at the particular (x2, y2) position.</p>
 <p>I begin drawing by going through the order:</p>
 - House overall</br>
 - Left, middle, and right roofs</br>
