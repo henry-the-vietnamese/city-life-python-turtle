@@ -8,13 +8,6 @@
 #   from a third party and without using any aids other than those cited.
 #
 
-# File:      Tan Duc_M_Portfolio_Exercise_3.py
-# Author:    Tan Duc (Henry) MAI
-# Email Id:  517925@eynesbury.sa.edu.au
-# Version:   1.0  22/7/2021
-# This is my own work as defined by the EIBT.
-# Academic Misconduct policy
-
 import turtle
 from drawing_procedures import *
 
