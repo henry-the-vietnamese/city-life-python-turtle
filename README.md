@@ -45,4 +45,4 @@ I begin drawing by going through the order:
 -  Tail
 
 # Output
-![The output of running main.py](assets/output.png)
+![The output of running main.py](assets/output.jpg)
