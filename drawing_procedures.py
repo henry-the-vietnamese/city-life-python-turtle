@@ -1,5 +1,5 @@
 #
-# File:         main.py
+# File:         drawing_procedures.py
 # Author:       Tan Duc Mai
 # Email:        tan.duc.work@gmail.com
 # Date:         22/7/2021
