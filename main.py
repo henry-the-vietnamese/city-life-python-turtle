@@ -3,7 +3,7 @@
 # Author:       Tan Duc Mai
 # Email:        tan.duc.work@gmail.com
 # Date:         22/7/2021
-# Description:  Use Python Turtle to illustrate the city life.
+# Description:  Use Turtle Graphics to illustrate the city life.
 #   I hereby declare that I completed this work without any improper help
 #   from a third party and without using any aids other than those cited.
 #
