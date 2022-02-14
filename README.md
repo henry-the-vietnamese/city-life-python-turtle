@@ -36,6 +36,7 @@ wheel at the particular (x2, y2) position.
 
 I begin drawing by going through the order:
 
+```text
 - House overall
 - Left, middle, and right roofs
 - Door
@@ -75,6 +76,7 @@ I begin drawing by going through the order:
   - Now I specify the coordinates of each leg as arguments of the *draw_leg*(x,
      y) function.
 - Tail
+```
 
 # Output
 
