@@ -1,9 +1,12 @@
+#!/usr/bin/python3
+
 #
-# File:         drawing_procedures.py
+# File:         drawing_functions.py
 # Author:       Tan Duc Mai
 # Email:        tan.duc.work@gmail.com
-# Date:         22/7/2021
-# Description:  Procedures assisting in drawing repetitive shapes.
+# Date:         22-Jul-21
+# Description:  A list of user-defined functions that assist in drawing
+#               repetitive shapes.
 #   I hereby declare that I completed this work without any improper help
 #   from a third party and without using any aids other than those cited.
 #
