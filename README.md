@@ -78,9 +78,9 @@ I begin drawing by going through the order:
 
 # Output
 
-![The output after executing the main module](assets/output.jpg)
+![The output of the program](assets/output.jpg)
 
 # Video Production
 
-![The process after executing the main
+[Execute the **main**
 module](https://raw.githubusercontent.com/tanducmai/city-life-turtle-graphics/main/assets/video_production.mp4)
