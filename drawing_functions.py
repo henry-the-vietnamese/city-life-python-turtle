@@ -11,9 +11,11 @@
 #   from a third party and without using any aids other than those cited.
 #
 
+# ------------------------------- Module Import -------------------------------
 import turtle
 
 
+# ---------------------------- Function Definitions ---------------------------
 def set_turtle(animal, pencolour, fillcolour, pensize):
     animal.shape('turtle')
     animal.color(pencolour, fillcolour)
