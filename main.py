@@ -135,10 +135,10 @@ def main():
     set_turtle(window, '#624A3A', '#5ca4cc', 2)
 
     # Call the function to draw the windows
-    window_position = [
+    window_position = (
         (-325, -130),
         (-25, -130),
-    ]
+    )
     for x, y in window_position:
         draw_window(window, x, y)
     window.hideturtle()
@@ -432,10 +432,10 @@ def main():
     set_turtle(eye, 'black', 'black', 2)
 
     # Call the function to draw the eyes
-    eye_position = [
+    eye_position = (
         (233, -214),
         (242, -210),
-    ]
+    )
     for x, y in eye_position:
         draw_eye(eye, x, y)
     eye.hideturtle()
@@ -471,12 +471,12 @@ def main():
     set_turtle(leg, 'black', 'black', 2)
 
     # Call the function to draw the legs
-    leg_position = [
+    leg_position = (
         (232, -243),
         (247, -248),
         (262, -241),
         (277, -245),
-    ]
+    )
     for x, y in leg_position:
         draw_leg(leg, x, y)
     leg.hideturtle()
