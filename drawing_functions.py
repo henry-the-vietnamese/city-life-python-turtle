@@ -11,6 +11,7 @@
 #   from a third party and without using any aids other than those cited.
 #
 
+
 # ------------------------------- Module Import -------------------------------
 import turtle
 
@@ -65,6 +66,7 @@ def draw_wheel(wheel, x1, y1):
         wheel.fd(15)
         a += 45
 
+
 def draw_star(star, x, y):
     move_turtle(star, 230, 63)
     star.begin_fill()
@@ -73,6 +75,7 @@ def draw_star(star, x, y):
         star.lt(-144)
     star.end_fill()
     star.hideturtle()
+
 
 def draw_eye(eye, x, y):
     move_turtle(eye, x, y)
