@@ -493,6 +493,9 @@ def main():
     tail.end_fill()
     tail.hideturtle()
 
+    # Wipe the screen out.
+    screen.exitonclick()
+
 
 # --------------------------- Call the Main Function --------------------------
 if __name__ == '__main__':
