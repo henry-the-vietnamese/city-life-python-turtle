@@ -23,7 +23,7 @@ def main():
     screen.bgcolor('#00002E')
     screen.bgpic('assets/background.gif')
     screen.title('Henry\'s Turtle')
-    turtle.setup(width = 750, height = 750)
+    turtle.setup(width=750, height=750)
 
     # house
     house = turtle.Turtle()
@@ -354,7 +354,7 @@ def main():
     car.fd(40)
     car.end_fill()
 
-    ## upper_car_body
+    # upper_car_body
 
     # car_glass
     set_turtle(car, '#7bdff6', '#7bdff6', 2)
@@ -397,7 +397,7 @@ def main():
 
     # flag
     flag = turtle.Turtle()
-    set_turtle(flag, '#624A3A','#624A3A', 7)
+    set_turtle(flag, '#624A3A', '#624A3A', 7)
     move_turtle(flag, 195, -257)
     flag.lt(90)
     flag.fd(350)
